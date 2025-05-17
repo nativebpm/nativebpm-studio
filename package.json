@@ -2,6 +2,7 @@
   "name": "nativebpm-studio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nativebpm.github.io/nativebpm-studio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
